@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><srw_dc:dc xmlns:srw_dc="info:srw/schema/1/dc-schema" xmlns:zs="http://docs.oasis-open.org/ns/search-ws/sruResponse" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="info:srw/schema/1/dc-schema http://www.loc.gov/standards/sru/resources/dc-schema.xsd">
+  <title xmlns="http://purl.org/dc/elements/1.1/">An appropriately decorated "Bookmobile" bus belonging to the Perry County Public Library in Hazard, a coal town of 4,500 or so population in the hills of southeastern Kentucky [graphic].</title>
+  <creator xmlns="http://purl.org/dc/elements/1.1/">Highsmith, Carol M., 1946- photographer.</creator>
+  <type xmlns="http://purl.org/dc/elements/1.1/">still image</type>
+  <type xmlns="http://purl.org/dc/elements/1.1/">Digital photographs Color 2020. gmgpc</type>
+  <publisher xmlns="http://purl.org/dc/elements/1.1/"/>
+  <date xmlns="http://purl.org/dc/elements/1.1/">2020-07-19.</date>
+  <language xmlns="http://purl.org/dc/elements/1.1/">eng</language>
+  <description xmlns="http://purl.org/dc/elements/1.1/">Title, date, keywords, and additional description details based on information provided by the photographer.</description>
+  <description xmlns="http://purl.org/dc/elements/1.1/">The small city was named for Oliver Hazard Perry (and the surrounding county is Perry County). Perry was a prominent naval hero in the early years of the American nation, famous for popularizing another mariner's cry, "Don't give up the ship."</description>
+  <description xmlns="http://purl.org/dc/elements/1.1/">Carol M. Highsmith Photography, Inc.;</description>
+  <description xmlns="http://purl.org/dc/elements/1.1/">Forms part of Carol M. Highsmith's America Project in the Carol M. Highsmith Archive.</description>
+  <subject xmlns="http://purl.org/dc/elements/1.1/">America Bookmobiles Perry County Public Library Oliver Hazard Perry</subject>
+  <coverage xmlns="http://purl.org/dc/elements/1.1/">United States Kentucky  Perry County  Hazard.</coverage>
+  <relation xmlns="http://purl.org/dc/elements/1.1/">Carol M. Highsmith Archive.</relation>
+  <identifier xmlns="http://purl.org/dc/elements/1.1/">https://hdl.loc.gov/loc.pnp/highsm.64003</identifier>
+  <rights xmlns="http://purl.org/dc/elements/1.1/">No known restrictions on publication.</rights>
+</srw_dc:dc>

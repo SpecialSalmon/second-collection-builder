@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><srw_dc:dc xmlns:srw_dc="info:srw/schema/1/dc-schema" xmlns:zs="http://docs.oasis-open.org/ns/search-ws/sruResponse" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="info:srw/schema/1/dc-schema http://www.loc.gov/standards/sru/resources/dc-schema.xsd">
+  <title xmlns="http://purl.org/dc/elements/1.1/">Daytona Beach, Florida. Bethune-Cookman College. Students in the library reading room [graphic].</title>
+  <creator xmlns="http://purl.org/dc/elements/1.1/">Parks, Gordon, 1912-2006, photographer.</creator>
+  <type xmlns="http://purl.org/dc/elements/1.1/">still image</type>
+  <type xmlns="http://purl.org/dc/elements/1.1/">Nitrate negatives. gmgpc</type>
+  <publisher xmlns="http://purl.org/dc/elements/1.1/"/>
+  <date xmlns="http://purl.org/dc/elements/1.1/">1943 Jan.</date>
+  <language xmlns="http://purl.org/dc/elements/1.1/">eng</language>
+  <description xmlns="http://purl.org/dc/elements/1.1/">Title and other information from caption card.</description>
+  <description xmlns="http://purl.org/dc/elements/1.1/">United States. Office of War Information. Overseas Picture Division. Washington Division;</description>
+  <description xmlns="http://purl.org/dc/elements/1.1/">More information about the FSA/OWI Collection is available at</description>
+  <coverage xmlns="http://purl.org/dc/elements/1.1/">United States Volusia County Daytona Beach.</coverage>
+  <relation xmlns="http://purl.org/dc/elements/1.1/">Farm Security Administration - Office of War Information photograph collection (Library of Congress)</relation>
+  <identifier xmlns="http://purl.org/dc/elements/1.1/">http://hdl.loc.gov/loc.pnp/fsa.8d24709</identifier>
+  <rights xmlns="http://purl.org/dc/elements/1.1/">No known restrictions. For information, see U.S. Farm Security Administration/Office of War Information Black &amp; White Photographs</rights>
+</srw_dc:dc>

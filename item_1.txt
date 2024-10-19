@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><srw_dc:dc xmlns:srw_dc="info:srw/schema/1/dc-schema" xmlns:zs="http://docs.oasis-open.org/ns/search-ws/sruResponse" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="info:srw/schema/1/dc-schema http://www.loc.gov/standards/sru/resources/dc-schema.xsd">
+  <title xmlns="http://purl.org/dc/elements/1.1/">For greater knowledge on more subjects use your library more often [graphic].</title>
+  <creator xmlns="http://purl.org/dc/elements/1.1/">Federal Art Project, sponsor.</creator>
+  <type xmlns="http://purl.org/dc/elements/1.1/">still image</type>
+  <type xmlns="http://purl.org/dc/elements/1.1/">Posters 1930-1950. gmgpc</type>
+  <type xmlns="http://purl.org/dc/elements/1.1/">Screen prints Color 1930-1950. gmgpc</type>
+  <publisher xmlns="http://purl.org/dc/elements/1.1/">Chicago : Illinois WPA Art Project,</publisher>
+  <date xmlns="http://purl.org/dc/elements/1.1/">[between 1936 and 1941]</date>
+  <language xmlns="http://purl.org/dc/elements/1.1/">   </language>
+  <description xmlns="http://purl.org/dc/elements/1.1/">Poster showing a mortarboard and a pair of glasses superimposed over a globe, promoting use of libraries.</description>
+  <description xmlns="http://purl.org/dc/elements/1.1/">Work Projects Administration Poster Collection (Library of Congress).</description>
+  <description xmlns="http://purl.org/dc/elements/1.1/">Date stamped on verso: Jan 24 1941.</description>
+  <subject xmlns="http://purl.org/dc/elements/1.1/">Libraries--Illinois--Chicago--1930-1950.</subject>
+  <subject xmlns="http://purl.org/dc/elements/1.1/">Education--Illinois--Chicago--1930-1950.</subject>
+  <identifier xmlns="http://purl.org/dc/elements/1.1/">http://hdl.loc.gov/loc.pnp/cph.3f05183</identifier>
+  <rights xmlns="http://purl.org/dc/elements/1.1/">No known restrictions on publication.</rights>
+</srw_dc:dc>
